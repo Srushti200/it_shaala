@@ -1,0 +1,34 @@
+h1{
+    color: red;
+    box-sizing: border-box;
+    background-color: aqua;
+}
+
+p{
+    background-color: aquamarine;
+    border: 2px solid black;
+    color: brown;
+    height: 100px;
+}
+
+a {
+    background-color: aquamarine;
+    border: 2px solid black;
+    color: brown;
+    height: 100px;
+    display: inline;
+}
+
+div {
+    background-color: aquamarine;
+    border: 2px solid black;
+    color: brown;
+    height: 100px;
+}
+
+span {
+    background-color: aquamarine;
+    border: 2px solid black;
+    color: brown;
+    height: 100px;
+}
